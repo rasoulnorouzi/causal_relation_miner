@@ -42,7 +42,6 @@ myenv/
 Thumbs.db
 
 # Data files
-*.pdf
 *.json
 *.csv
 
