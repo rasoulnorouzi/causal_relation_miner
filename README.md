@@ -1,10 +1,8 @@
 # Causal Relationship Miner
 
-<video width="100%" controls>
-  <source src="presentations/video_2025-12-01_11-52-49.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>Extract cause–effect relationships from your PDF documents with a simple web app.
-+
+![Demo](presentations/video_2025-12-01_11-52-49.gif)
+
+Extract cause–effect relationships from PDF documents with a simple web app.
 
 ## Get started (Windows)
 
