@@ -2,6 +2,10 @@
 
 Extract cause–effect relationships from your PDF documents with a simple web app.
 
+<video src="presentations/video_2025-12-01_11-52-49.mp4" controls width="600">
+</video>
+
+
 ## Get started (Windows)
 
 ### Option 1 — Easiest (no setup)
